@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FF14GetChatlog.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strChatLogDirname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ChatLog</Value>
+    </Setting>
+    <Setting Name="strChatLogFilename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ChatLog.log</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
